@@ -150,4 +150,4 @@ function loadChat() {
         chat.innerHTML = data;
         chat.scrollTop = chat.scrollHeight;
     }
-}
+            }
